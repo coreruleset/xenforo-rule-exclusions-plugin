@@ -6,3 +6,4 @@
 - [Federico G. Schwindt](https://github.com/fgsch)
 - [ThanhPT](https://github.com/nevol1708)
 - [Felipe Zipitría](https://github.com/fzipi)
+- [Max Leske](https://github.com/theseion)
