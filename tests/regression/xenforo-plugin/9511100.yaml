@@ -20,6 +20,6 @@ tests:
             version: HTTP/1.1
             uri: /get/proxy.php
             data: |
-              referrer=something
+              referrer=https://example.com
           output:
             no_log_contains: id "931130"
