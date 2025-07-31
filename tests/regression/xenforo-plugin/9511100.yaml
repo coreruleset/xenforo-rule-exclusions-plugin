@@ -2,7 +2,7 @@
 meta:
   author: "Felipe Zipitria, azurit"
   description: "XenForo Rule Exclusions Plugin"
-  rule_id: 9511100
+rule_id: 9511100
 tests:
   - test_id: 1
     desc: Check if you plugin works. Normally plugins are targeted at exclusion rules, but this might not be the case.
